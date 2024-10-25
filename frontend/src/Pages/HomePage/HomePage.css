@@ -1,0 +1,162 @@
+
+
+.hero__section {
+    padding-top: 60px;
+  }
+  
+  .hero__content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+  }
+  
+  .hero__title {
+    font-size: 36px;
+    font-weight: 800;
+    color: #333;
+  }
+  
+  .btn {
+    background-color: #1e40af;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 18px;
+  }
+  
+  .hero__stat {
+    font-size: 36px;
+    font-weight: 700;
+    color: #333;
+  }
+  
+  .hero__text {
+    font-size: 16px;
+    color: #666;
+  }
+  
+  .hero__images img {
+    max-width: 100%;
+  }
+  
+  .services {
+    text-align: center;
+  }
+  
+  .services__title {
+    font-size: 28px;
+    font-weight: 700;
+  }
+  
+  .services__description {
+    font-size: 16px;
+    color: #666;
+    margin-top: 10px;
+  }
+  
+  .services__cards {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+  }
+  
+  .card {
+    padding: 20px;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    text-align: center;
+  }
+  
+  .card__title {
+    font-size: 22px;
+    font-weight: 600;
+    margin-top: 10px;
+  }
+  
+  .card__description {
+    font-size: 14px;
+    color: #666;
+    margin-top: 10px;
+  }
+  
+  .card__link {
+    display: inline-block;
+    padding: 10px;
+    margin-top: 10px;
+    color: #1e40af;
+    border: 1px solid #1e40af;
+    border-radius: 50%;
+  }
+  
+  .feature {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
+  .feature__content {
+    flex: 1;
+  }
+  
+  .feature__title {
+    font-size: 26px;
+    font-weight: 700;
+  }
+  
+  .feature__list {
+    list-style-type: decimal;
+    padding-left: 20px;
+    font-size: 16px;
+    color: #666;
+  }
+  
+  .feature__image {
+    flex: 1;
+    position: relative;
+  }
+  
+  .feature__details {
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    background: white;
+    padding: 10px;
+    border-radius: 10px;
+  }
+  
+  .details__time p {
+    font-size: 12px;
+    color: #333;
+  }
+  
+  .details__consultation {
+    background-color: #cce7f0;
+    padding: 5px 10px;
+    border-radius: 5px;
+    color: #005f73;
+  }
+  
+  .details__doctor {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  .faq {
+    display: flex;
+    gap: 20px;
+  }
+  
+  .faq img {
+    max-width: 100%;
+    display: none;
+  }
+  
+  @media (min-width: 768px) {
+    .faq img {
+      display: block;
+    }
+  }
+  
