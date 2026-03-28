@@ -23,6 +23,12 @@
 | 1  | [AI-based “Stackoverflow” community for Scheme Agents](https://github.com/kavyakapoor420/Haqdarshak-Stackoverflow-project.git) | #553| Ticket completed |
 
 ---
+## Languages and Tools i used daily /(Proficient In Bro) 
+<p align="center">
+<img align="center" src="https://skillicons.dev/icons?i=RAG,html,css,js,react,express,nodejs,mongodb,git,github,Postman,vscode,postman,cpp,python&perline=8">
+</p>
+
+---
 
 ## Project Built so far 
 
